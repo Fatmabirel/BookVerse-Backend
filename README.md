@@ -7,6 +7,7 @@ Bu proje, kitapların, yazarların ve kategorilerin yönetimini sağlayan kapsam
 #### GEREKSİNİMLER 🛠
 - [x] Web projesi: 
   ![Asp.NET Web API](https://img.shields.io/badge/asp.net%20web%20api-%231BA3E8.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 - [x] Veri tabanı: 
   ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 - [x] Dökümantasyon için:
